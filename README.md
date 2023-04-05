@@ -35,3 +35,10 @@
 |HSMMtube	| H4K20me1 |	H4K20me1.bam |	Control.bam|
 
 ## ChromHMM
+| emission | transition | overlap |
+|:--|--|--:|
+|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/emissions_11.png)|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/transitions_11.png)|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/HSMMtube_11_overlap.png)|
+
+|RefSeqTSS|RefSeqTES|
+|:--|--:|
+|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/HSMMtube_11_RefSeqTSS_neighborhood.png)|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/HSMMtube_11_RefSeqTES_neighborhood.png)|
