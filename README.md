@@ -33,3 +33,5 @@
 |HSMMtube |	H3K9ac |	H3K9ac.bam |	Control.bam|
 |HSMMtube	| H3K9me3 |	H3K9me3.bam |	Control.bam|
 |HSMMtube	| H4K20me1 |	H4K20me1.bam |	Control.bam|
+
+## ChromHMM
