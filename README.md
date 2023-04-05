@@ -60,3 +60,6 @@
 
 ![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/1.png)
 ![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/2.png)
+
+## Бонусная часть
+Код использованный для бонусной части можно посмотреть в конце документа в Colab.
