@@ -58,3 +58,5 @@
 |10|Heterochromatin|Выражен в H3K27me3. Находится на всем промежутке относительно TES. Попадает на ядерную ламину и конец транскрипции. |
 |11|Heterochromatin|Выражен в H3K9me3.  Находится на всем промежутке относительно TES. Попадает на ядерную дамну и конец транскрипции.|
 
+![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/1.png)
+![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/2.png)
