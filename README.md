@@ -42,3 +42,5 @@
 |RefSeqTSS|RefSeqTES|
 |:--|--:|
 |![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/HSMMtube_11_RefSeqTSS_neighborhood.png)|![](https://github.com/alkmnd/hse_hw3_chromhmm/blob/main/data/HSMMtube_11_RefSeqTES_neighborhood.png)|
+
+## Эпигенетические типы 
